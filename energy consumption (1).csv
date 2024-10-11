@@ -1,4 +1,4 @@
-Date,Energy Consumption (GWh),GDP (Million PHP),Population,Average_Temperature_C
+Date,Consumption,GDP,Population,Average_Temperature_C
 2020-01,120,2100,100000,28.98975717
 2020-02,130,2200,100000,25.68870161
 2020-03,140,2300,100000,25.53722119
